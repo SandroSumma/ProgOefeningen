@@ -13,5 +13,4 @@ else
     console.log(getal1 + " is oneven")
 }
 
-
 process.exit();
