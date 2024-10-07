@@ -11,7 +11,7 @@ do {
     if (getal > 0) {
         som += getal;
     }
-    
+
 } while (getal > 0);
 
 console.log("De som van de ingevoerde getallen is: " + som);
